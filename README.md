@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=238636&text=Hello%20friends&fontColor=ffffff&desc=Welcome%20to%20my%20GitHub%20profile!&descAlign=78&descAlignY=68)
 
@@ -34,3 +34,59 @@ Here are some ideas to get you started:
 
 
 [![](https://visitcount.itsvg.in/api?id=kiber-pank&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
+-->
+<!-- Анимированный заголовок с градиентом -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=6E57FF&center=true&vCenter=true&width=600&lines=Hello+friends!;Kiber-pank+here;Full-stack+developer" alt="Typing SVG" />
+</p>
+
+<!-- Краткое описание -->
+<p align="center">
+  🚀 Создаю веб-приложения | 🎨 Люблю красивый код | 🌱 Учусь новому каждый день
+</p>
+
+<!-- Разделитель -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-dark.png" width="100%" />
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,sqlite,bootstrap,css,jquery&theme=dark&perline=7" />
+</p>
+
+### 📊 Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiber-pank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6E57FF&title_color=6E57FF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiber-pank&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57FF" height="170" />
+</p>
+
+### 🔥 Активность
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kiber-pank&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E57FF&ring=6E57FF&fire=6E57FF&currStreakLabel=6E57FF" width="800" />
+</p>
+
+### 📫 Связаться со мной
+
+<p align="center">
+  <a href="https://t.me/your_telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Kiber-pank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Счётчик посещений -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Kiber-pank&label=👁️%20Views&color=6&icon=5&pretty=true" />
+</p>
+
+<!-- Вдохновляющая подпись -->
+<p align="center">
+  <i>“Code is poetry, and I'm writing my story.”</i>
+</p>
