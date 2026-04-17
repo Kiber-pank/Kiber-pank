@@ -45,8 +45,6 @@ Here are some ideas to get you started:
   🚀 Создаю веб-приложения | 🎨 Люблю красивый код | 🌱 Учусь новому каждый день
 </p>
 
-<!-- Разделитель -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-dark.png" width="100%" />
 
 ### 🛠️ Tech stack
 
@@ -75,9 +73,6 @@ Here are some ideas to get you started:
   </a>
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Kiber-pank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
