@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 -->
 <!-- Анимированный заголовок с градиентом -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=6E57FF&center=true&vCenter=true&width=600&lines=Привет!+Я+Талян" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=6E57FF&center=true&vCenter=true&width=600&lines=Привет,+Я+Талян!;Я+не+full-stack;Я+очень+любопытный!" alt="Typing SVG" />
 </p>
 
 <!-- Краткое описание -->
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 <!-- Счётчик посещений -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Kiber-pank&label=👁️%20Views&color=6&icon=5&pretty=true" />
+  <img src="https://hits.sh/github.com/Kiber-pank/hits.svg?label=Views&color=6E57FF" />
 </p>
 
 <!-- Вдохновляющая подпись -->
