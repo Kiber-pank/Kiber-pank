@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 -->
 <!-- Анимированный заголовок с градиентом -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=6E57FF&center=true&vCenter=true&width=600&lines=Привет!+Я+Талян;Я+не+Full-stack+developer;Я+очень+любопытный" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=6E57FF&center=true&vCenter=true&width=600&lines=Привет!+Я+Талян" alt="Typing SVG" />
 </p>
 
 <!-- Краткое описание -->
