@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 -->
 <!-- Анимированный заголовок с градиентом -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=6E57FF&center=true&vCenter=true&width=600&lines=Hello+friends!;Kiber-pank+here;Full-stack+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=6E57FF&center=true&vCenter=true&width=600&lines=Привет!+Я+Талян;Я+не+Full-stack+developer;Я+очень+любопытный" alt="Typing SVG" />
 </p>
 
 <!-- Краткое описание -->
 <p align="center">
-  🚀 Создаю веб-приложения | 🎨 Люблю красивый код | 🌱 Учусь новому каждый день
+  <i>*"Пишу код, который работает... обычно после 3-го перезапуска"*</i>
 </p>
 
 
@@ -68,10 +68,10 @@ Here are some ideas to get you started:
 ### 📫 Связаться со мной
 
 <p align="center">
-  <a href="https://t.me/your_telegram">
+  <a href="https://t.me/@kiber_inzhener">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:irbis-tolik@mail.ru">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -83,5 +83,5 @@ Here are some ideas to get you started:
 
 <!-- Вдохновляющая подпись -->
 <p align="center">
-  <i>“Code is poetry, and I'm writing my story.”</i>
+  <i>"Программирую как панк: громко, с душой и иногда без документации"</i>
 </p>
